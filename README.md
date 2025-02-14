@@ -4,9 +4,13 @@ This Project “Healthcare Data Analysis Using Decision Tree Classifier Algorith
 Key Features:
 
 Data Processing: Cleans and prepares raw medical data for classification.
+
 Decision Tree Model: Constructs an interpretable tree to predict diseases.
+
 Visualization: Generates decision tree plots for model interpretability.
+
 Testing & Evaluation: Evaluates model performance using test data.
+
 The trained model aids in identifying potential diseases based on input symptoms, offering a preliminary diagnostic tool.
 
 
